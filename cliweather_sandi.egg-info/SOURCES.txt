@@ -1,0 +1,8 @@
+main.py
+setup.py
+cliweather_sandi.egg-info/PKG-INFO
+cliweather_sandi.egg-info/SOURCES.txt
+cliweather_sandi.egg-info/dependency_links.txt
+cliweather_sandi.egg-info/entry_points.txt
+cliweather_sandi.egg-info/requires.txt
+cliweather_sandi.egg-info/top_level.txt
